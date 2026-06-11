@@ -669,6 +669,9 @@
     cada caso debe ser analizado de forma particular por un profesional.
   </p>
 </footer>
+<a class="whatsapp" href="https://wa.me/595981930001" target="_blank">
+  📲 Consultar por WhatsApp
+</a>
 
 </body>
 </html>
