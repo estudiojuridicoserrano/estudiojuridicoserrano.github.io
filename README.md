@@ -671,7 +671,8 @@
 </footer>
 <a class="whatsapp" href="https://wa.me/595981930001" target="_blank">
   📲 Consultar por WhatsApp
-</a>
+</p>
+</footer>
 
 </body>
 </html>
